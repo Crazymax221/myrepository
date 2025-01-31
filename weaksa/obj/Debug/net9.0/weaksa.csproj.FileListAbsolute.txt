@@ -1,0 +1,15 @@
+C:\meyZi\myrepository\weaksa\bin\Debug\net9.0\weaksa.exe
+C:\meyZi\myrepository\weaksa\bin\Debug\net9.0\weaksa.deps.json
+C:\meyZi\myrepository\weaksa\bin\Debug\net9.0\weaksa.runtimeconfig.json
+C:\meyZi\myrepository\weaksa\bin\Debug\net9.0\weaksa.dll
+C:\meyZi\myrepository\weaksa\bin\Debug\net9.0\weaksa.pdb
+C:\meyZi\myrepository\weaksa\obj\Debug\net9.0\weaksa.GeneratedMSBuildEditorConfig.editorconfig
+C:\meyZi\myrepository\weaksa\obj\Debug\net9.0\weaksa.AssemblyInfoInputs.cache
+C:\meyZi\myrepository\weaksa\obj\Debug\net9.0\weaksa.AssemblyInfo.cs
+C:\meyZi\myrepository\weaksa\obj\Debug\net9.0\weaksa.csproj.CoreCompileInputs.cache
+C:\meyZi\myrepository\weaksa\obj\Debug\net9.0\weaksa.sourcelink.json
+C:\meyZi\myrepository\weaksa\obj\Debug\net9.0\weaksa.dll
+C:\meyZi\myrepository\weaksa\obj\Debug\net9.0\refint\weaksa.dll
+C:\meyZi\myrepository\weaksa\obj\Debug\net9.0\weaksa.pdb
+C:\meyZi\myrepository\weaksa\obj\Debug\net9.0\weaksa.genruntimeconfig.cache
+C:\meyZi\myrepository\weaksa\obj\Debug\net9.0\ref\weaksa.dll
