@@ -1,0 +1,15 @@
+C:\meyZi\myrepository\calculator\bin\Debug\net9.0\calculator.exe
+C:\meyZi\myrepository\calculator\bin\Debug\net9.0\calculator.deps.json
+C:\meyZi\myrepository\calculator\bin\Debug\net9.0\calculator.runtimeconfig.json
+C:\meyZi\myrepository\calculator\bin\Debug\net9.0\calculator.dll
+C:\meyZi\myrepository\calculator\bin\Debug\net9.0\calculator.pdb
+C:\meyZi\myrepository\calculator\obj\Debug\net9.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\meyZi\myrepository\calculator\obj\Debug\net9.0\calculator.AssemblyInfoInputs.cache
+C:\meyZi\myrepository\calculator\obj\Debug\net9.0\calculator.AssemblyInfo.cs
+C:\meyZi\myrepository\calculator\obj\Debug\net9.0\calculator.csproj.CoreCompileInputs.cache
+C:\meyZi\myrepository\calculator\obj\Debug\net9.0\calculator.sourcelink.json
+C:\meyZi\myrepository\calculator\obj\Debug\net9.0\calculator.dll
+C:\meyZi\myrepository\calculator\obj\Debug\net9.0\refint\calculator.dll
+C:\meyZi\myrepository\calculator\obj\Debug\net9.0\calculator.pdb
+C:\meyZi\myrepository\calculator\obj\Debug\net9.0\calculator.genruntimeconfig.cache
+C:\meyZi\myrepository\calculator\obj\Debug\net9.0\ref\calculator.dll

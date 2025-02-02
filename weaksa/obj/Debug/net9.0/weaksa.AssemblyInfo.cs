@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("weaksa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec71f6ed383ba2a75d83caca8ccd07b571a439d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f29a522b6b889fe2e4d6293bbe7bfc2599edf2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("weaksa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("weaksa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
