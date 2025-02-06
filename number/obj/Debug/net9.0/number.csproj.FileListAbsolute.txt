@@ -1,0 +1,15 @@
+C:\meyZi\myrepository\number\bin\Debug\net9.0\number.exe
+C:\meyZi\myrepository\number\bin\Debug\net9.0\number.deps.json
+C:\meyZi\myrepository\number\bin\Debug\net9.0\number.runtimeconfig.json
+C:\meyZi\myrepository\number\bin\Debug\net9.0\number.dll
+C:\meyZi\myrepository\number\bin\Debug\net9.0\number.pdb
+C:\meyZi\myrepository\number\obj\Debug\net9.0\number.GeneratedMSBuildEditorConfig.editorconfig
+C:\meyZi\myrepository\number\obj\Debug\net9.0\number.AssemblyInfoInputs.cache
+C:\meyZi\myrepository\number\obj\Debug\net9.0\number.AssemblyInfo.cs
+C:\meyZi\myrepository\number\obj\Debug\net9.0\number.csproj.CoreCompileInputs.cache
+C:\meyZi\myrepository\number\obj\Debug\net9.0\number.sourcelink.json
+C:\meyZi\myrepository\number\obj\Debug\net9.0\number.dll
+C:\meyZi\myrepository\number\obj\Debug\net9.0\refint\number.dll
+C:\meyZi\myrepository\number\obj\Debug\net9.0\number.pdb
+C:\meyZi\myrepository\number\obj\Debug\net9.0\number.genruntimeconfig.cache
+C:\meyZi\myrepository\number\obj\Debug\net9.0\ref\number.dll
