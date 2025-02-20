@@ -1,0 +1,15 @@
+C:\meyZi\myrepository\praktika\bin\Debug\net9.0\cikli.exe
+C:\meyZi\myrepository\praktika\bin\Debug\net9.0\cikli.deps.json
+C:\meyZi\myrepository\praktika\bin\Debug\net9.0\cikli.runtimeconfig.json
+C:\meyZi\myrepository\praktika\bin\Debug\net9.0\cikli.dll
+C:\meyZi\myrepository\praktika\bin\Debug\net9.0\cikli.pdb
+C:\meyZi\myrepository\praktika\obj\Debug\net9.0\cikli.GeneratedMSBuildEditorConfig.editorconfig
+C:\meyZi\myrepository\praktika\obj\Debug\net9.0\cikli.AssemblyInfoInputs.cache
+C:\meyZi\myrepository\praktika\obj\Debug\net9.0\cikli.AssemblyInfo.cs
+C:\meyZi\myrepository\praktika\obj\Debug\net9.0\cikli.csproj.CoreCompileInputs.cache
+C:\meyZi\myrepository\praktika\obj\Debug\net9.0\cikli.sourcelink.json
+C:\meyZi\myrepository\praktika\obj\Debug\net9.0\cikli.dll
+C:\meyZi\myrepository\praktika\obj\Debug\net9.0\refint\cikli.dll
+C:\meyZi\myrepository\praktika\obj\Debug\net9.0\cikli.pdb
+C:\meyZi\myrepository\praktika\obj\Debug\net9.0\cikli.genruntimeconfig.cache
+C:\meyZi\myrepository\praktika\obj\Debug\net9.0\ref\cikli.dll
