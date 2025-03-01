@@ -240,6 +240,8 @@ while (gameover)
     if (nummm == 9)
     {
         gameover = false;
+        isPlayer1 = false;
+        isPlayer2 = false;
     }
     else if (wincomb1[0, 0] && wincomb1[0, 1] && wincomb1[0, 2] ||
         wincomb1[1, 0] && wincomb1[1, 1] && wincomb1[1, 2] ||
@@ -269,6 +271,10 @@ if (isPlayer1)
 else if (isPlayer2)
 {
     Console.WriteLine("Player 2 wins");
+}
+else
+{
+    Console.WriteLine("Draw");
 }
 
 //;)
