@@ -86,24 +86,25 @@
 //Console.WriteLine(game[0]);
 
 //game.Insert(3, "gta");
-int[,] multiplicationTable = new int[9, 9];
+//int[,] multiplicationTable = new int[9, 9];
 
-// Заповнення таблиці множення
-for (int i = 0; i < 9; i++)
-{
-    for (int j = 0; j < 9; j++)
-    {
-        multiplicationTable[i, j] = (i + 1) * (j + 1);
-    }
-}
+//// Заповнення таблиці множення
+//for (int i = 0; i < 9; i++)
+//{
+//    for (int j = 0; j < 9; j++)
+//    {
+//        multiplicationTable[i, j] = (i + 1) * (j + 1);
+//    }
+//}
 
-// Виведення таблиці множення
-Console.WriteLine("Таблиця множення:");
-for (int i = 0; i < 9; i++)
-{
-    for (int j = 0; j < 9; j++)
-    {
-        Console.Write(multiplicationTable[i, j].ToString().PadLeft(4));
-    }
-    Console.WriteLine();
-}
+//// Виведення таблиці множення
+//Console.WriteLine("Таблиця множення:");
+//for (int i = 0; i < 9; i++)
+//{
+//    for (int j = 0; j < 9; j++)
+//    {
+//        Console.Write(multiplicationTable[i, j].ToString().PadLeft(4));
+//    }
+//    Console.WriteLine();
+//}
+
