@@ -124,6 +124,8 @@ while (gameover)
     if (nummm == 9)
     {
         gameover = false;
+        isPlayer1 = false;
+        isPlayer2 = false;
     }
     else if (wincomb[0, 0] && wincomb[0, 1] && wincomb[0, 2] ||
         wincomb[1, 0] && wincomb[1, 1] && wincomb[1, 2] ||
