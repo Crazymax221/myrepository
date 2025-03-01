@@ -1,0 +1,15 @@
+C:\meyZi\myrepository\crestikinoliki\bin\Debug\net9.0\crestikinoliki.exe
+C:\meyZi\myrepository\crestikinoliki\bin\Debug\net9.0\crestikinoliki.deps.json
+C:\meyZi\myrepository\crestikinoliki\bin\Debug\net9.0\crestikinoliki.runtimeconfig.json
+C:\meyZi\myrepository\crestikinoliki\bin\Debug\net9.0\crestikinoliki.dll
+C:\meyZi\myrepository\crestikinoliki\bin\Debug\net9.0\crestikinoliki.pdb
+C:\meyZi\myrepository\crestikinoliki\obj\Debug\net9.0\crestikinoliki.GeneratedMSBuildEditorConfig.editorconfig
+C:\meyZi\myrepository\crestikinoliki\obj\Debug\net9.0\crestikinoliki.AssemblyInfoInputs.cache
+C:\meyZi\myrepository\crestikinoliki\obj\Debug\net9.0\crestikinoliki.AssemblyInfo.cs
+C:\meyZi\myrepository\crestikinoliki\obj\Debug\net9.0\crestikinoliki.csproj.CoreCompileInputs.cache
+C:\meyZi\myrepository\crestikinoliki\obj\Debug\net9.0\crestikinoliki.sourcelink.json
+C:\meyZi\myrepository\crestikinoliki\obj\Debug\net9.0\crestikinoliki.dll
+C:\meyZi\myrepository\crestikinoliki\obj\Debug\net9.0\refint\crestikinoliki.dll
+C:\meyZi\myrepository\crestikinoliki\obj\Debug\net9.0\crestikinoliki.pdb
+C:\meyZi\myrepository\crestikinoliki\obj\Debug\net9.0\crestikinoliki.genruntimeconfig.cache
+C:\meyZi\myrepository\crestikinoliki\obj\Debug\net9.0\ref\crestikinoliki.dll

@@ -1,0 +1,15 @@
+C:\meyZi\myrepository\mywork\bin\Debug\net9.0\mywork.exe
+C:\meyZi\myrepository\mywork\bin\Debug\net9.0\mywork.deps.json
+C:\meyZi\myrepository\mywork\bin\Debug\net9.0\mywork.runtimeconfig.json
+C:\meyZi\myrepository\mywork\bin\Debug\net9.0\mywork.dll
+C:\meyZi\myrepository\mywork\bin\Debug\net9.0\mywork.pdb
+C:\meyZi\myrepository\mywork\obj\Debug\net9.0\mywork.GeneratedMSBuildEditorConfig.editorconfig
+C:\meyZi\myrepository\mywork\obj\Debug\net9.0\mywork.AssemblyInfoInputs.cache
+C:\meyZi\myrepository\mywork\obj\Debug\net9.0\mywork.AssemblyInfo.cs
+C:\meyZi\myrepository\mywork\obj\Debug\net9.0\mywork.csproj.CoreCompileInputs.cache
+C:\meyZi\myrepository\mywork\obj\Debug\net9.0\mywork.sourcelink.json
+C:\meyZi\myrepository\mywork\obj\Debug\net9.0\mywork.dll
+C:\meyZi\myrepository\mywork\obj\Debug\net9.0\refint\mywork.dll
+C:\meyZi\myrepository\mywork\obj\Debug\net9.0\mywork.pdb
+C:\meyZi\myrepository\mywork\obj\Debug\net9.0\mywork.genruntimeconfig.cache
+C:\meyZi\myrepository\mywork\obj\Debug\net9.0\ref\mywork.dll

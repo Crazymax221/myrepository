@@ -1,0 +1,15 @@
+C:\meyZi\myrepository\masivi\bin\Debug\net9.0\masivi.exe
+C:\meyZi\myrepository\masivi\bin\Debug\net9.0\masivi.deps.json
+C:\meyZi\myrepository\masivi\bin\Debug\net9.0\masivi.runtimeconfig.json
+C:\meyZi\myrepository\masivi\bin\Debug\net9.0\masivi.dll
+C:\meyZi\myrepository\masivi\bin\Debug\net9.0\masivi.pdb
+C:\meyZi\myrepository\masivi\obj\Debug\net9.0\masivi.GeneratedMSBuildEditorConfig.editorconfig
+C:\meyZi\myrepository\masivi\obj\Debug\net9.0\masivi.AssemblyInfoInputs.cache
+C:\meyZi\myrepository\masivi\obj\Debug\net9.0\masivi.AssemblyInfo.cs
+C:\meyZi\myrepository\masivi\obj\Debug\net9.0\masivi.csproj.CoreCompileInputs.cache
+C:\meyZi\myrepository\masivi\obj\Debug\net9.0\masivi.sourcelink.json
+C:\meyZi\myrepository\masivi\obj\Debug\net9.0\masivi.dll
+C:\meyZi\myrepository\masivi\obj\Debug\net9.0\refint\masivi.dll
+C:\meyZi\myrepository\masivi\obj\Debug\net9.0\masivi.pdb
+C:\meyZi\myrepository\masivi\obj\Debug\net9.0\masivi.genruntimeconfig.cache
+C:\meyZi\myrepository\masivi\obj\Debug\net9.0\ref\masivi.dll
