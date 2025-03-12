@@ -1,0 +1,15 @@
+C:\meyZi\myrepository\asiviv2\bin\Debug\net9.0\asiviv2.exe
+C:\meyZi\myrepository\asiviv2\bin\Debug\net9.0\asiviv2.deps.json
+C:\meyZi\myrepository\asiviv2\bin\Debug\net9.0\asiviv2.runtimeconfig.json
+C:\meyZi\myrepository\asiviv2\bin\Debug\net9.0\asiviv2.dll
+C:\meyZi\myrepository\asiviv2\bin\Debug\net9.0\asiviv2.pdb
+C:\meyZi\myrepository\asiviv2\obj\Debug\net9.0\asiviv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\meyZi\myrepository\asiviv2\obj\Debug\net9.0\asiviv2.AssemblyInfoInputs.cache
+C:\meyZi\myrepository\asiviv2\obj\Debug\net9.0\asiviv2.AssemblyInfo.cs
+C:\meyZi\myrepository\asiviv2\obj\Debug\net9.0\asiviv2.csproj.CoreCompileInputs.cache
+C:\meyZi\myrepository\asiviv2\obj\Debug\net9.0\asiviv2.sourcelink.json
+C:\meyZi\myrepository\asiviv2\obj\Debug\net9.0\asiviv2.dll
+C:\meyZi\myrepository\asiviv2\obj\Debug\net9.0\refint\asiviv2.dll
+C:\meyZi\myrepository\asiviv2\obj\Debug\net9.0\asiviv2.pdb
+C:\meyZi\myrepository\asiviv2\obj\Debug\net9.0\asiviv2.genruntimeconfig.cache
+C:\meyZi\myrepository\asiviv2\obj\Debug\net9.0\ref\asiviv2.dll

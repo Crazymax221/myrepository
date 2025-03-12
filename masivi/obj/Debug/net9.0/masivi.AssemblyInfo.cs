@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("masivi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac6bd766533d020a020ff4cd7bd8229fdbb90017")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2c700720d21aac252fc2ee313c1d6cc4021b8e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("masivi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("masivi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
