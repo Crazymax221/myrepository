@@ -108,3 +108,18 @@
 //    Console.WriteLine();
 //}
 
+//masiv
+
+int x = 4;
+int y = 5;
+
+add(x, y);
+
+y = x + y++;
+
+add(x, y);
+
+static void add(int x, int y)
+{
+    Console.WriteLine(x + y);
+}

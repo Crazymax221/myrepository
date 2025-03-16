@@ -1,0 +1,15 @@
+C:\meyZi\myrepository\radki\obj\Debug\net9.0\radki.GeneratedMSBuildEditorConfig.editorconfig
+C:\meyZi\myrepository\radki\obj\Debug\net9.0\radki.AssemblyInfoInputs.cache
+C:\meyZi\myrepository\radki\obj\Debug\net9.0\radki.AssemblyInfo.cs
+C:\meyZi\myrepository\radki\obj\Debug\net9.0\radki.csproj.CoreCompileInputs.cache
+C:\meyZi\myrepository\radki\obj\Debug\net9.0\radki.sourcelink.json
+C:\meyZi\myrepository\radki\bin\Debug\net9.0\radki.exe
+C:\meyZi\myrepository\radki\bin\Debug\net9.0\radki.deps.json
+C:\meyZi\myrepository\radki\bin\Debug\net9.0\radki.runtimeconfig.json
+C:\meyZi\myrepository\radki\bin\Debug\net9.0\radki.dll
+C:\meyZi\myrepository\radki\bin\Debug\net9.0\radki.pdb
+C:\meyZi\myrepository\radki\obj\Debug\net9.0\radki.dll
+C:\meyZi\myrepository\radki\obj\Debug\net9.0\refint\radki.dll
+C:\meyZi\myrepository\radki\obj\Debug\net9.0\radki.pdb
+C:\meyZi\myrepository\radki\obj\Debug\net9.0\radki.genruntimeconfig.cache
+C:\meyZi\myrepository\radki\obj\Debug\net9.0\ref\radki.dll

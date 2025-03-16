@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testing", "testing\testing.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asiviv2", "asiviv2\asiviv2.csproj", "{B60FBCB8-1A00-4368-80DD-EDB48E1A4B46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "radki", "radki\radki.csproj", "{1E671AC9-2F41-463E-82B8-255144A737F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{B60FBCB8-1A00-4368-80DD-EDB48E1A4B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B60FBCB8-1A00-4368-80DD-EDB48E1A4B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B60FBCB8-1A00-4368-80DD-EDB48E1A4B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E671AC9-2F41-463E-82B8-255144A737F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E671AC9-2F41-463E-82B8-255144A737F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E671AC9-2F41-463E-82B8-255144A737F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E671AC9-2F41-463E-82B8-255144A737F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
