@@ -1,0 +1,15 @@
+C:\meyZi\myrepository\radkiv3\bin\Debug\net9.0\radkiv3.exe
+C:\meyZi\myrepository\radkiv3\bin\Debug\net9.0\radkiv3.deps.json
+C:\meyZi\myrepository\radkiv3\bin\Debug\net9.0\radkiv3.runtimeconfig.json
+C:\meyZi\myrepository\radkiv3\bin\Debug\net9.0\radkiv3.dll
+C:\meyZi\myrepository\radkiv3\bin\Debug\net9.0\radkiv3.pdb
+C:\meyZi\myrepository\radkiv3\obj\Debug\net9.0\radkiv3.GeneratedMSBuildEditorConfig.editorconfig
+C:\meyZi\myrepository\radkiv3\obj\Debug\net9.0\radkiv3.AssemblyInfoInputs.cache
+C:\meyZi\myrepository\radkiv3\obj\Debug\net9.0\radkiv3.AssemblyInfo.cs
+C:\meyZi\myrepository\radkiv3\obj\Debug\net9.0\radkiv3.csproj.CoreCompileInputs.cache
+C:\meyZi\myrepository\radkiv3\obj\Debug\net9.0\radkiv3.sourcelink.json
+C:\meyZi\myrepository\radkiv3\obj\Debug\net9.0\radkiv3.dll
+C:\meyZi\myrepository\radkiv3\obj\Debug\net9.0\refint\radkiv3.dll
+C:\meyZi\myrepository\radkiv3\obj\Debug\net9.0\radkiv3.pdb
+C:\meyZi\myrepository\radkiv3\obj\Debug\net9.0\radkiv3.genruntimeconfig.cache
+C:\meyZi\myrepository\radkiv3\obj\Debug\net9.0\ref\radkiv3.dll

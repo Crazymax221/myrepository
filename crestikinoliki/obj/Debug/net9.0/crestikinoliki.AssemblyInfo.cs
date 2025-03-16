@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("crestikinoliki")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38c04d5bb372347b44d0d994edbd75e09cde8fbe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0933890d2b8afdead6c1c505db77dd305207ae8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("crestikinoliki")]
 [assembly: System.Reflection.AssemblyTitleAttribute("crestikinoliki")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

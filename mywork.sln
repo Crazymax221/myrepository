@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asiviv2", "asiviv2\asiviv2.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "radki", "radki\radki.csproj", "{1E671AC9-2F41-463E-82B8-255144A737F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "radkiv2", "radkiv2\radkiv2.csproj", "{AFE4F85B-48AC-49E2-A5D7-D43488078797}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "radkiv3", "radkiv3\radkiv3.csproj", "{33451515-6415-4DCC-AAEC-5988A7F22917}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{1E671AC9-2F41-463E-82B8-255144A737F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E671AC9-2F41-463E-82B8-255144A737F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E671AC9-2F41-463E-82B8-255144A737F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE4F85B-48AC-49E2-A5D7-D43488078797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE4F85B-48AC-49E2-A5D7-D43488078797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE4F85B-48AC-49E2-A5D7-D43488078797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE4F85B-48AC-49E2-A5D7-D43488078797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33451515-6415-4DCC-AAEC-5988A7F22917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33451515-6415-4DCC-AAEC-5988A7F22917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33451515-6415-4DCC-AAEC-5988A7F22917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33451515-6415-4DCC-AAEC-5988A7F22917}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
