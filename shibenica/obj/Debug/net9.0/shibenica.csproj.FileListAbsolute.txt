@@ -1,0 +1,15 @@
+C:\meyZi\myrepository\shibenica\obj\Debug\net9.0\shibenica.GeneratedMSBuildEditorConfig.editorconfig
+C:\meyZi\myrepository\shibenica\obj\Debug\net9.0\shibenica.AssemblyInfoInputs.cache
+C:\meyZi\myrepository\shibenica\obj\Debug\net9.0\shibenica.AssemblyInfo.cs
+C:\meyZi\myrepository\shibenica\obj\Debug\net9.0\shibenica.csproj.CoreCompileInputs.cache
+C:\meyZi\myrepository\shibenica\obj\Debug\net9.0\shibenica.sourcelink.json
+C:\meyZi\myrepository\shibenica\bin\Debug\net9.0\shibenica.exe
+C:\meyZi\myrepository\shibenica\bin\Debug\net9.0\shibenica.deps.json
+C:\meyZi\myrepository\shibenica\bin\Debug\net9.0\shibenica.runtimeconfig.json
+C:\meyZi\myrepository\shibenica\bin\Debug\net9.0\shibenica.dll
+C:\meyZi\myrepository\shibenica\bin\Debug\net9.0\shibenica.pdb
+C:\meyZi\myrepository\shibenica\obj\Debug\net9.0\shibenica.dll
+C:\meyZi\myrepository\shibenica\obj\Debug\net9.0\refint\shibenica.dll
+C:\meyZi\myrepository\shibenica\obj\Debug\net9.0\shibenica.pdb
+C:\meyZi\myrepository\shibenica\obj\Debug\net9.0\shibenica.genruntimeconfig.cache
+C:\meyZi\myrepository\shibenica\obj\Debug\net9.0\ref\shibenica.dll

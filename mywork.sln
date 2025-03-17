@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "radkiv2", "radkiv2\radkiv2.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "radkiv3", "radkiv3\radkiv3.csproj", "{33451515-6415-4DCC-AAEC-5988A7F22917}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shibenica", "shibenica\shibenica.csproj", "{EE57C6A2-0F1C-4F54-AABE-42DA6E764A64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{33451515-6415-4DCC-AAEC-5988A7F22917}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33451515-6415-4DCC-AAEC-5988A7F22917}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33451515-6415-4DCC-AAEC-5988A7F22917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE57C6A2-0F1C-4F54-AABE-42DA6E764A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE57C6A2-0F1C-4F54-AABE-42DA6E764A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE57C6A2-0F1C-4F54-AABE-42DA6E764A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE57C6A2-0F1C-4F54-AABE-42DA6E764A64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
