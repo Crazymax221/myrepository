@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("radkiv3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+202ea79c87bcb689bbe35bbbc3727d5d64316ae4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b37d721c10120e9403e44f77fb9a51ff9c0035ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("radkiv3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("radkiv3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

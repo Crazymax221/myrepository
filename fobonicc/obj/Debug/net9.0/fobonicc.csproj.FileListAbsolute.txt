@@ -1,0 +1,15 @@
+C:\meyZi\myrepository\fobonicc\bin\Debug\net9.0\fobonicc.exe
+C:\meyZi\myrepository\fobonicc\bin\Debug\net9.0\fobonicc.deps.json
+C:\meyZi\myrepository\fobonicc\bin\Debug\net9.0\fobonicc.runtimeconfig.json
+C:\meyZi\myrepository\fobonicc\bin\Debug\net9.0\fobonicc.dll
+C:\meyZi\myrepository\fobonicc\bin\Debug\net9.0\fobonicc.pdb
+C:\meyZi\myrepository\fobonicc\obj\Debug\net9.0\fobonicc.GeneratedMSBuildEditorConfig.editorconfig
+C:\meyZi\myrepository\fobonicc\obj\Debug\net9.0\fobonicc.AssemblyInfoInputs.cache
+C:\meyZi\myrepository\fobonicc\obj\Debug\net9.0\fobonicc.AssemblyInfo.cs
+C:\meyZi\myrepository\fobonicc\obj\Debug\net9.0\fobonicc.csproj.CoreCompileInputs.cache
+C:\meyZi\myrepository\fobonicc\obj\Debug\net9.0\fobonicc.sourcelink.json
+C:\meyZi\myrepository\fobonicc\obj\Debug\net9.0\fobonicc.dll
+C:\meyZi\myrepository\fobonicc\obj\Debug\net9.0\refint\fobonicc.dll
+C:\meyZi\myrepository\fobonicc\obj\Debug\net9.0\fobonicc.pdb
+C:\meyZi\myrepository\fobonicc\obj\Debug\net9.0\fobonicc.genruntimeconfig.cache
+C:\meyZi\myrepository\fobonicc\obj\Debug\net9.0\ref\fobonicc.dll

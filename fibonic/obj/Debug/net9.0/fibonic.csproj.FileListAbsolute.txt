@@ -1,0 +1,15 @@
+C:\meyZi\myrepository\fibonic\bin\Debug\net9.0\fibonic.exe
+C:\meyZi\myrepository\fibonic\bin\Debug\net9.0\fibonic.deps.json
+C:\meyZi\myrepository\fibonic\bin\Debug\net9.0\fibonic.runtimeconfig.json
+C:\meyZi\myrepository\fibonic\bin\Debug\net9.0\fibonic.dll
+C:\meyZi\myrepository\fibonic\bin\Debug\net9.0\fibonic.pdb
+C:\meyZi\myrepository\fibonic\obj\Debug\net9.0\fibonic.GeneratedMSBuildEditorConfig.editorconfig
+C:\meyZi\myrepository\fibonic\obj\Debug\net9.0\fibonic.AssemblyInfoInputs.cache
+C:\meyZi\myrepository\fibonic\obj\Debug\net9.0\fibonic.AssemblyInfo.cs
+C:\meyZi\myrepository\fibonic\obj\Debug\net9.0\fibonic.csproj.CoreCompileInputs.cache
+C:\meyZi\myrepository\fibonic\obj\Debug\net9.0\fibonic.sourcelink.json
+C:\meyZi\myrepository\fibonic\obj\Debug\net9.0\fibonic.dll
+C:\meyZi\myrepository\fibonic\obj\Debug\net9.0\refint\fibonic.dll
+C:\meyZi\myrepository\fibonic\obj\Debug\net9.0\fibonic.pdb
+C:\meyZi\myrepository\fibonic\obj\Debug\net9.0\fibonic.genruntimeconfig.cache
+C:\meyZi\myrepository\fibonic\obj\Debug\net9.0\ref\fibonic.dll
