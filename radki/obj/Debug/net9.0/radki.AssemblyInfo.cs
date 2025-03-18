@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("radki")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b37d721c10120e9403e44f77fb9a51ff9c0035ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cd4013c8df5fdddbe029b085a8574819c9bfa3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("radki")]
 [assembly: System.Reflection.AssemblyTitleAttribute("radki")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

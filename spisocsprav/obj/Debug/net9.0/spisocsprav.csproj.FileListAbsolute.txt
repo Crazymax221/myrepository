@@ -1,0 +1,15 @@
+C:\meyZi\myrepository\spisocsprav\bin\Debug\net9.0\spisocsprav.exe
+C:\meyZi\myrepository\spisocsprav\bin\Debug\net9.0\spisocsprav.deps.json
+C:\meyZi\myrepository\spisocsprav\bin\Debug\net9.0\spisocsprav.runtimeconfig.json
+C:\meyZi\myrepository\spisocsprav\bin\Debug\net9.0\spisocsprav.dll
+C:\meyZi\myrepository\spisocsprav\bin\Debug\net9.0\spisocsprav.pdb
+C:\meyZi\myrepository\spisocsprav\obj\Debug\net9.0\spisocsprav.GeneratedMSBuildEditorConfig.editorconfig
+C:\meyZi\myrepository\spisocsprav\obj\Debug\net9.0\spisocsprav.AssemblyInfoInputs.cache
+C:\meyZi\myrepository\spisocsprav\obj\Debug\net9.0\spisocsprav.AssemblyInfo.cs
+C:\meyZi\myrepository\spisocsprav\obj\Debug\net9.0\spisocsprav.csproj.CoreCompileInputs.cache
+C:\meyZi\myrepository\spisocsprav\obj\Debug\net9.0\spisocsprav.sourcelink.json
+C:\meyZi\myrepository\spisocsprav\obj\Debug\net9.0\spisocsprav.dll
+C:\meyZi\myrepository\spisocsprav\obj\Debug\net9.0\refint\spisocsprav.dll
+C:\meyZi\myrepository\spisocsprav\obj\Debug\net9.0\spisocsprav.pdb
+C:\meyZi\myrepository\spisocsprav\obj\Debug\net9.0\spisocsprav.genruntimeconfig.cache
+C:\meyZi\myrepository\spisocsprav\obj\Debug\net9.0\ref\spisocsprav.dll
